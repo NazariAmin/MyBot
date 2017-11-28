@@ -1,0 +1,16 @@
+{
+  "name": "botchat",
+  "version": "1.0.0",
+  "description": "Web Chat Bot Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammad Amin Nazari",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "nestify": "^1.0.5",
+    "restify": "^6.3.1"
+  }
+}
